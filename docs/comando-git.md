@@ -22,7 +22,7 @@ git add .
 
 git commit -m "Proyecto base"
 
-git put origin master
+git push origin master
 
 ---
 ---
